@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sundry things from severall hands concerning the University of Oxford: viz. I. A petition from some well-affected therein. II. A modell for a colledge reformation. III. Queries concerning the said university, and several persons therein.</title>
+         </titleStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94122</idno><idno type="EEBO-CITATION">99867128</idno>
+  <idno type="VID">119419</idno>
+  <idno type="EEBO-PROQUEST">2240925898</idno>
+  
+            <idno type="STC">Wing S6181</idno>
+            <idno type="STC">Thomason E988_25</idno>
+            <idno type="STC">ESTC R208142</idno>
+            <idno type="PROQUEST">99867128</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867128e"/>
+            <note>(EEBO-TCP ; phase 2, no. A94122)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119419)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E988[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sundry things from severall hands concerning the University of Oxford: viz. I. A petition from some well-affected therein. II. A modell for a colledge reformation. III. Queries concerning the said university, and several persons therein.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Thomas Creake,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">University of Oxford --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119419:1"/>
+            <p>SUNDRY THINGS FROM SEVERALL HANDS Concerning the University OF OXFORD: VIZ.</p>
+            <list>
+               <item>
+                  <hi>I. A Petition from some Well-affected therein.</hi>
+               </item>
+               <item>
+                  <hi>II. A Modell for a Colledge Reformation.</hi>
+               </item>
+               <item>
+                  <hi>III. Queries concerning the said Ʋniver<g ref="char:EOLhyphen"/>sity, and severall persons therein.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Creake.</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:119419:2"/>
+            <pb n="1" facs="tcp:119419:2"/>
+            <opener>
+               <salute>To the PARLIAMENT of the Common<g ref="char:EOLhyphen"/>wealth of <hi>England.</hi>
+               </salute>
+            </opener>
+            <head>The humble Petition of the <hi>remnant</hi> of wel-affected persons within the Ʋniversity of <hi>Oxford.</hi>
+            </head>
+            <p>SHEWETH,</p>
+            <p>THat your Petitioners are infinitely rejoyced at the good providence of God which hath once more restored you to those seats, and that station of which you were by un<g ref="char:EOLhyphen"/>doubted right possessed, and in which you did so demean your selves that the Lord blessed you in your counsels extraordinarily, and the hands of the poor people of this nation were much strengthned under you, through a certain hope to see themselves established upon sure foundations; and a Commonwealth erected after such a model as would secure us all in our <hi>Liberties, Civill</hi> and <hi>Spirituall,</hi> without the hazzard of being overthrown by every or any ambitious spirit. We hope that you your selves are sensi<g ref="char:EOLhyphen"/>ble, as we are, upon that late usurpation upon you us, being the basest and unworthlest attempt that hath hapned among the sonnes of men; and that you will neither give daring spirits any encouragement for the <hi>future</hi> to act the like by permitting their <hi>predecessor</hi> an <hi>Honourable memoriall,</hi> or providing <hi>ample revenues</hi> for his <hi>posterity</hi> (a thing without example in the best Common<g ref="char:EOLhyphen"/>wealths) nor omit those things which are essentiall to our being a <hi>wel-framed Republique.</hi>
+            </p>
+            <p>In reference hereunto we humbly pray that you would have a special care of the magistracy of this Nation, that it may be entru<g ref="char:EOLhyphen"/>sted with such as fear God, hate covetousness, are and have been under the late accursed apostacy promoters &amp; abettors of a Com<g ref="char:EOLhyphen"/>monwealths interest, and have owned the like principles in others: and that the Armies of our lands may be garbled, and put in such mens hands as are faithful and able for the discharge of so great a work.</p>
+            <p>And for so much as the education of persons to serve in Church and State, is a thing necessarily to be considered for the subsistence and continuance of a Republique, that the youth may be through<g ref="char:EOLhyphen"/>ly acquainted and prepossest with the principles thereof, as well
+<pb n="2" facs="tcp:119419:3"/>us instructed in all other <hi>usefull learning.</hi> We humbly beseech you that you would take into your care the two Universities, which are the standing seminaries of a ministery (good or bad, useful or useless, according as they are there educated) and places whither the gentry and others resort for instruction, and whence they re<g ref="char:EOLhyphen"/>turn (or may doe) well affected and capable of sundry imploy<g ref="char:EOLhyphen"/>ments in their generations; or else ignorant, rude, oppressive, de<g ref="char:EOLhyphen"/>bauched, and debauching others, to the great detriment and over<g ref="char:EOLhyphen"/>throw of a Commonwealth.</p>
+            <p>We also desire that you would enact a <hi>freedom for opinions</hi> there, and constitute professors and libraries, endowed accordingly; that so all that are members of this Commonwealth, and are ready to sacrifice all that is neer and dear to them for the publique ser<g ref="char:EOLhyphen"/>vice that so considerable a part of this Nation, so faithfull, so wel-affected, may not continue deprived of all advantagious breeding of their posterity: thorough defect whereof they become incape<g ref="char:EOLhyphen"/>able of reaping any profit from that posture of affairs into which they have principally stated us.</p>
+            <p>And that <hi>degrees</hi> may not be conferred, but on such as <hi>de<g ref="char:EOLhyphen"/>serve them,</hi> and after a more strict way of exercise suited to the preserving and upholding us as a <hi>Republique;</hi> and not as hath bin for many yeers past amongst us practised, when <hi>Creations</hi> &amp; <hi>Dis<g ref="char:EOLhyphen"/>pensations</hi> for <hi>Time, absence,</hi> and <hi>exercise</hi> have so been granted for the capacitating of favourites to preferments and trusts whereunto they were no way fit; that we <hi>must</hi> make it our <hi>earnest-humble re<g ref="char:EOLhyphen"/>quest</hi> that <hi>all degrees</hi> which have been conferred on any person or persons since the surrender of <hi>Oxford</hi> may be <hi>cassated and nulled</hi> by some <hi>solemn act,</hi> as being no longer characters of <hi>merit,</hi> but <hi>cheats</hi> wherewith to <hi>amuse</hi> the <hi>ignorant:</hi> and that such as are now <hi>graduates</hi> in <hi>Arts unnecessary,</hi> and which they <hi>ignore</hi> (so as enti<g ref="char:EOLhyphen"/>tuling them thereto, is a <hi>lye</hi>) may commence in <hi>Philosophy</hi> and o<g ref="char:EOLhyphen"/>ther usefull studies, whereof they cannot be ignorant without pre<g ref="char:EOLhyphen"/>judice to themselves in their fortunes, and the Common-wealth in its <hi>dis service.</hi>
+            </p>
+            <p>That whatever is <hi>Monarchicall, superstitious,</hi> or <hi>oppressive</hi> in the University to he good people, may be abrogated.</p>
+            <p>That none be <hi>Heads of Houses</hi> but such as are entirely affected for a Republique, and who will be <hi>active</hi> in seasoning those under their charge with principles resembling: and that in case you find
+<pb n="3" facs="tcp:119419:3"/>your selves not provided with a sufficient number of persons for themanaging of so many Colledges and Halls, we pray, you would reduce them, rather then suffer any to become Nurseries for such as may hereafter be as <hi>thorns</hi> in your sides.</p>
+            <p>That the power of the <hi>Vniversity</hi> may not be in the hands of any <hi>One</hi> as <hi>Chancellor,</hi> nor of any Clergy-men (who have been so notoriously corrupt, negligent, and malignant) as <hi>Visitors,</hi> (the miscarriage of inferiors being personall, whilst theirs influence the publique) no nor as <hi>Heads of Colledges, governing with Fellows,</hi> unless there be a kind of <hi>Censor</hi> residing amongst them who shall be impowred to punish (with appeale only to the Council of State) all misdemeanors or neglects in exercise or discipline that may be prejudiciall to the Commonwealth, and influence all elections for the advantage of such as are <hi>actively-obedient</hi> and <hi>deserving.</hi>
+            </p>
+            <p>That all such Ceremonies &amp; Reverence as tends to enervating the minds of the people, &amp; begetting a <hi>pride</hi> in the ministry may be put down, since the appointment of so extraordinary respects to men of low extraction renders them insolent, and either averse from going out to preach the Gospel, or scandalous in the perfor<g ref="char:EOLhyphen"/>mance thereof.</p>
+            <p>That there may be sundry Acts in each yeer, at which a select number (yet varying each yeer, to prevent collusion) of Patriots or Senators may be present to judge of the abilities, and inclina<g ref="char:EOLhyphen"/>tions of the several Students towards the Publique good, and ac<g ref="char:EOLhyphen"/>cordingly dispose of them into places, so as they may be service<g ref="char:EOLhyphen"/>able to the Nation, and not grow old in their Colledges, which thereby become as it were <hi>Hospitals</hi> or <hi>Monasteries.</hi>
+            </p>
+            <p>These things we thought it a duty incumbent on us to propose unto you, being ready to supply by our <hi>activeness</hi> whatever pre<g ref="char:EOLhyphen"/>judice our <hi>paucity</hi> might create unto the Common-wealth: We have no self ends, nor do we labour to promote particular inte<g ref="char:EOLhyphen"/>rests, being ready to comply with any of your commands, and in the mean while</p>
+            <closer>
+               <signed>As your Petitioners, we shall ever pray, &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="model">
+            <pb n="4" facs="tcp:119419:4"/>
+            <head>A slight model of a Colledge to be erected and supplied from <hi>Westminster</hi> School.</head>
+            <p>SInce the Students of Christ Church finding their condition, as to Discipline and other emoluments intolerable under their present Governors, neither the Foundation-men, nor ancestoral Gentry being educated, so as to be serviceable to the publick in any trusts or employments; they have drawn up a Petition, that the revenues of the Colledg may be enquired into, and that they may be regulated by statutes (though good Statutes in the hands of remiss and negligent persons become ineffectual) and since the Canons of the said Colledge (the Dean is so dissatisfied with the posture thereof, that he hath professed himself ready to desert his station) do very little, and ought not at all to entermeddle with the government of that house (they should have been sold as Ca<g ref="char:EOLhyphen"/>thedral, and that according to the Covenant, as the University in Convocation declared, but were I know not how preserved, possibly as a support to the then designed Monarchy) nor do they by reason of their frauds, dilapidations, male-administration of discipline, disaffection, and general worthlesness deserve to have any new right conferred on them. It is humbly Queried, whe<g ref="char:EOLhyphen"/>ther some such model as the ensuing (which shall be now fully represented, with the reasons of each particular circumstance, when there shall be any appointed to receive proposals) than ei<g ref="char:EOLhyphen"/>ther they, or the whole University at present is.</p>
+            <p>Let the places of the Dean and Canons be abolished, and the incomes thereof sequestred for the carrying on of the intended Model, which may be perfected without any further expence, than what is at present lost amongst thankless, useless, or dis<g ref="char:EOLhyphen"/>affected persons.</p>
+            <p>Let the Honourable the Governours of <hi>VVestminster</hi> School be entrusted with the supreme power of the Colledge, and disposal of revenues.</p>
+            <p>Let no person, Professor or Fellow, have any extraordinary al<g ref="char:EOLhyphen"/>lowances, but what shall arise from their care in instructing others, and Donatives to be given from time to time by the Governors accordingly as they shall find men profit in learning, and hopeful to serve the Commonwealth.</p>
+            <pb n="5" facs="tcp:119419:4"/>
+            <p> Let the Novices of the foundation be provided for of such books as are prescribed them by the discipline of the house (without per<g ref="char:EOLhyphen"/>mission to read others till they have perfectly laid their foundati<g ref="char:EOLhyphen"/>on) and accommodated in a decent way as to cloaths, dyet, and chambers, and chamber-furniture, and with physick in case of indisposition, at the Colledge charge.</p>
+            <p>Let the foundation be supplyed from <hi>Westminster</hi> School, not only for their better instruction, but for the preserving of una<g ref="char:EOLhyphen"/>nimity, and that upon their coming to the University, they be not enforced to one study, or general studies, but immediately put unto such a Society and Classe of Students as are for this or that profession.</p>
+            <p>Let there be certain times of the year fixed, in which Commo<g ref="char:EOLhyphen"/>ners and others may be received into the Colledge, and at no other time, to prevent disorders in studies; let that time be such as the Professors shall agree upon, wherein to finish their course of Lectures: and let these be distributed into Classes as the other, and regulated in their dyet, habits, and company, as may best suit with their intended course of life, and the being of the Com<g ref="char:EOLhyphen"/>monwealth, which requires that the youth be bred up to sobrie<g ref="char:EOLhyphen"/>ty, frugality, and knowledge.</p>
+            <p>Let the students of all sorts, and faculties, be obliged before their departure, to understand the grounds of a Commonwealth, and what is the particular basis of this, that so they may be more active in their persons and relations, it being their reason, and not custom which induces them to subjection.</p>
+            <p>Let the Governors make it their care, that when persons shall arise to maturity, and sapable of any employments, to promote them in several ways according to their several professions; and that none be permitted to refuse any such probation employ<g ref="char:EOLhyphen"/>ments: as for Physicians, that they go with our Merchants and Embassadors to remote countries, and that though the emolu<g ref="char:EOLhyphen"/>ment be not great; and the like for such as study other faculties, and that none decline this. That after their return they give an account of their observations, and deposite them in the Colledge Archimes, and that they be at their return maintained as before (their places in their absence being supplyed by others) till the State can find them employment.</p>
+            <p>Let there be established in the Colledge one or two Professors
+<pb n="6" facs="tcp:119419:5"/>in Divinity, who shall finish such a course therein as shall be thought fit, especially instructing all in the several Analysis of faith, and grounds of religion: let him or they uphold Disputati<g ref="char:EOLhyphen"/>ons and such like exercise.</p>
+            <p>Let there be a Professor of Civil Law and Politiques, who may instruct all in the foundations of common right, and dispose them to prefer a Commonwealth before Monarchy: let him direct them in a method of particular Politiques and History.</p>
+            <p>Let there be one Professor in <hi>Des Cartes's</hi> Philosophy and Ma<g ref="char:EOLhyphen"/>thematicks.</p>
+            <p>Let there be one Professor of <hi>Gassenduus's</hi> Philosophy, and Ge<g ref="char:EOLhyphen"/>neral Geography, who may also give directions for particular Geography.</p>
+            <p>Let these each have assistants out of the Fellows (to be consti<g ref="char:EOLhyphen"/>tuted) who enquire into the Magnetical Philosophy; let them have a School of Experiments in Optiques and Mechaniques for the instruction of the Gentry, and such as it shall be found suitable to assist them in their studies: and let this be defrayed by the publick, or by levies upon each Commoner that comes to study there, as they now give pieces of Plate.</p>
+            <p>Let there be a Professor of Physick, and another of Anatomy; let them read, dissect, and keep a Chymist for experiments and promoting of Medicines: let this be defrayed partly at the pub<g ref="char:EOLhyphen"/>lick charge, and partly by levy upon the students in Physick, and such as shall desire to be present, and partly by the standing Apo<g ref="char:EOLhyphen"/>thecary of the Colledge Physicians.</p>
+            <p>Let there be a Professor of useful Logick, and civil Rhetorick, for the institution of such as are to be employed in the publick: and let them practice not in a declamatory and light, but a mascu<g ref="char:EOLhyphen"/>line and solid way, that is English as well as Latine; and that they be instructed in the way of penning Letters and Dispatches.</p>
+            <p>Let all or any of these teach such, as are not versed in Latine, in English, and let such be distributed into agreeable company, for the bettering themselves: and let the Professors be severely prohibited from teaching any that shall be young and not of their Colledge: as for such as are grown in years, and yet would learn any, or all the studies aforesaid, they may be admitted and dis<g ref="char:EOLhyphen"/>posed of according to discretion, without prejudicing the constant course of studies to be upheld in the Colledge.</p>
+            <pb n="7" facs="tcp:119419:5"/>
+            <p> Let there be fixty Fellowes in the Colledge with competent al<g ref="char:EOLhyphen"/>lowance, to supply the quality of standing Tutors, who may car<g ref="char:EOLhyphen"/>ry on the studies of the youth in things of lesser moment, and prepare them for Lectures, examine them after Lectures, see to their manners, &amp;c.</p>
+            <p>Let twenty of these study controversial Divinity, Ecclesiastical History, yet so as to be able to manage the practical part for the good and credit of the Nation, either at home, or in employments with Embassadors. Let a third part of these alterately at <hi>London,</hi> that they may not be strangers to the world, and circumstances thereof, and so be able to direct better in order to the education of their country men.</p>
+            <p>Let the other twenty study after a competency of knowledge in the Theory, and other qualifications, dispose themselves for the Practick, and altered Tutelage of such as mean to be Divines; for the education of whom, and promoting them in order to the service of the Nation, the said Governors may take care.</p>
+            <p>The last twenty may be divided so as one third study Physick, and tutor others therein, under their Professor, they having pre<g ref="char:EOLhyphen"/>cedaniously learned one or both of the Philosophies specified; and the rest may study general and particular Politicks, Geogra<g ref="char:EOLhyphen"/>phy, History, and all other ornaments becoming exact <hi>Virtuosi:</hi> and accordingly take care for the Tutelage of others, and that part of them be obliged to go abroad at the States employing, then return, and after that reside a while before they engage in<g ref="char:EOLhyphen"/>to any determinate course of life.</p>
+            <p>The Governors of <hi>Westminster</hi> may rule the Colledge by a Vice=Principal elected out of the Fellows, and the Fellows them<g ref="char:EOLhyphen"/>selves; the power of gratifying and encouraging being reserved to them. And further, they may constitute a Censour of discipline, who may, in case of neglect, punish any Fellow, Professor, or Stu<g ref="char:EOLhyphen"/>dent any way related to the Colledge arbitrarily, without being subject to any but the Governors.</p>
+            <p>As for particular Orders an account of them may be given in upon demand. Let it suffice that this project, as great as its in<g ref="char:EOLhyphen"/>fluence will be upon the residue of the University, if it be thought meat to continue it unaltered, will cost no more then doth the present Colledge of <hi>Christ Church,</hi> which as it must be new model<g ref="char:EOLhyphen"/>led one day, so it may be regulated thus without injury to the
+<pb n="8" facs="tcp:119419:6"/>
+               <hi>Canons</hi> or <hi>Students</hi> in being; they who are most concerned in the charge may be, (if they deserve it, and if the <hi>Canons</hi> their now Governors will recommend them, which it is certain they will not) disposed of for the service of the Nation (as in the disso<g ref="char:EOLhyphen"/>lution of Monasteries) and those who are notoriously disaffected, and have shewed themselves such (though they may comply now or hereafter out of interest) or which are rude, ignorant, or de<g ref="char:EOLhyphen"/>bauched, may receive a condigne dismission, to be provided for when the Council of State shall have found out some <hi>passive pro<g ref="char:EOLhyphen"/>tection,</hi> and <hi>passive preferments</hi> for those that will yield, but at most a <hi>passive obedience.</hi>
+            </p>
+         </div>
+         <div type="queries">
+            <head>Several <hi>Quaeries</hi> concerning the Vniversity of <hi>Oxon.</hi>
+            </head>
+            <p n="1">I. WHether the proposal of the Army, and resolve of the Parliament <hi>for the advancement of Learning,</hi> or the se<g ref="char:EOLhyphen"/>veral <hi>Petitions</hi> against <hi>Tythes</hi> do most threaten the <hi>Vniversity</hi> in its present <hi>posture.</hi>
+            </p>
+            <p n="2">II. Whether the <hi>Independents</hi> or <hi>Presbyterians</hi> in <hi>Oxon</hi> be <hi>more</hi> for their <hi>private,</hi> and <hi>less</hi> for the <hi>Commonwealth?</hi>
+            </p>
+            <p n="3">III. Whether the Parliament did well to <hi>own</hi> the <hi>Vniversity,</hi> before the <hi>Vniversity</hi> owned them?</p>
+            <p n="4">IV. Whether it be not eminently true of the University, that in it <hi>men of low degree are vanity, men of high degree are as a lye: to be laid in the ballance they are altogether lighter than vanity?</hi>
+            </p>
+            <p n="5">V. Whether the University of <hi>Oxon</hi> did not well to petition, that <hi>Durham</hi> might not be made <hi>such</hi> an University, and give <hi>such like degrees?</hi> and whether it be not as incumbent upon <hi>Par<g ref="char:EOLhyphen"/>liaments</hi> not to <hi>multiply Asses,</hi> as upon the <hi>Kings</hi> of <hi>Israel</hi> not to <hi>multiply Horses?</hi>
+            </p>
+            <p n="6">VI.<note place="margin">The Case is stated, and sold by <hi>An<g ref="char:EOLhyphen"/>drew Crook</hi> in <hi>Pauls</hi> Church yard.</note> Whether the University of <hi>Oxon</hi> be not several times run into a <hi>premunire?</hi> especialy by that <hi>solemn Act of perjury</hi> in ma<g ref="char:EOLhyphen"/>king Dr. <hi>John Wallas</hi> Antiquary? Whether it be not a judge<g ref="char:EOLhyphen"/>ment that hath since befallen Mr. <hi>Richard Cromwell,</hi> Secretary <hi>Thurlow,</hi> Commissioner <hi>Lisle</hi> and <hi>Finnes,</hi> &amp;c. that they never took notice of such <hi>perjury,</hi> though they were engaged in honour, and by an appeal to them, so to do?</p>
+            <p n="7">VII. Whether the whole course of the University be any thing
+<pb n="9" facs="tcp:119419:6"/>at present, but a <hi>formality</hi> of <hi>drinking</hi> in the most, and of <hi>eating</hi> in all? and whether he that should plead for it with the Commonwealths men, might not fall before the proposals which <hi>Abraham</hi> made to God in the behalf of <hi>Sodom,</hi> and yet the Uni<g ref="char:EOLhyphen"/>versity not be preserved?</p>
+            <p n="8">VIII. Since Dr. <hi>Wilkinson</hi> of Christ Church hath denounced out of the Pulpit by way of <hi>prophesie,</hi> that a sire out of the San<g ref="char:EOLhyphen"/>ctuary, that is, the <hi>Sectaries,</hi> and not any culmery fire, should de<g ref="char:EOLhyphen"/>stroy the University; whether the publick be not concerned, that <hi>he that speaks, speaks as the Oracles of God?</hi>
+            </p>
+            <p n="9">IX. Whether it be an <hi>excuse</hi> for the principal heads of houses, that their <hi>Statutes were bad,</hi> since they never observed them?</p>
+            <p n="10">X. Whether upon enquiry it would not be found <hi>disputable,</hi> Committee men, Sequestrators, or the <hi>Oxford visitors?</hi> and whe<g ref="char:EOLhyphen"/>ther the prejudice which the publick hath received by the least, be not <hi>without dispute</hi> greater than what hath sprung from the former?</p>
+            <p n="11">XI. Whether the <hi>Doctors</hi> in Divinity may not take place of <hi>Knights</hi> as well as <hi>Esquires,</hi> since their <hi>Wives</hi> may take place of the <hi>Ladies?</hi>
+            </p>
+            <p n="12">XII. Wheth er the <hi>Doctors</hi> are not concerned to uphold the formalities of <hi>Caps, Gfwns,</hi> and <hi>Hoods,</hi> because there is nothing else to difference them from <hi>common fools?</hi>
+            </p>
+            <p n="13">XIII. Whether the present Parliament be not obliged to up<g ref="char:EOLhyphen"/>hold the grandeur of the Doctors, since it was resolved by them that an Esqnire, and son to one of the most eminent persons now in Parliament and Councel of State, ought not in a cloak occasi<g ref="char:EOLhyphen"/>onally to sit in the Church, no not at the lower end of those seats in which they and each paultry acquaintance of theirs do sit?</p>
+            <p n="14">XIV. Whether they pull down the Universities who ruine <hi>lear<g ref="char:EOLhyphen"/>ning</hi> or they who ruine <hi>Colledge rules?</hi>
+            </p>
+            <p n="15">XV. Whether the Canons of <hi>Christ Church</hi> have any thing to do, but to get <hi>children</hi> and <hi>money?</hi> whether they are not descen<g ref="char:EOLhyphen"/>dants from the papistical <hi>Regulars,</hi> and have twice escaped a re<g ref="char:EOLhyphen"/>formation? whether they were not so called as other things are, by way of contrariety, as not being <hi>regular,</hi> since they rule with<g ref="char:EOLhyphen"/>out fundamental Statutes, without regard to custom or conscience?</p>
+            <p n="16">XVI. Whether the <hi>Canons</hi> of <hi>Christ Church</hi> ought not to eat the bread of affliction, and drink the water of affliction, since they refuse to eat the same bread, and drink the same drink with the
+<pb n="10" facs="tcp:119419:7"/>rest of the Colledge, which indeed is so <hi>bad</hi> as never was worse eaten or drunk, but by the same Canons before they came to be Canons?</p>
+            <p n="17">XVII. Whether K. <hi>Charls</hi> did not serve himself and the publick, by putting in two <hi>Professors</hi> to be Canons of Christ Church, than the Parl. did themselves &amp; the publick by putting in <hi>eight Preten<g ref="char:EOLhyphen"/>ders?</hi> whether any man can tell when the <hi>Nation,</hi> or they them<g ref="char:EOLhyphen"/>selves will render their acknowledgments for the promotion of them; or why the <hi>two</hi> Kings <hi>Professors</hi> are not of the number of the anons, since they own <hi>more right,</hi> and not <hi>more malignancy?</hi>
+            </p>
+            <p n="18">XVIII. Whether the Canons having given <hi>O.</hi> P. their Organs out of their Cathedral, may not give the Parliament their Cathe<g ref="char:EOLhyphen"/>dra<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> plate and furniture (if any of it be yet undivided) since they will not give them a good word.</p>
+            <p n="19">XIX. Whether Dr. <hi>Langley</hi> when he took from the Students of Christ Church a part of their small bowling greene, to build him<g ref="char:EOLhyphen"/>self a <hi>coach-house;</hi> and from the Alms men a part of their ground to enlarge his private Garden, without either of their consents asked or obtained; did well to justifie himself by that Scripture, <hi>From him that hath not shall be taken even that which he hath?</hi>
+            </p>
+            <p n="20">XX. Why did Canon <hi>Poynter</hi> pray for <hi>O.</hi> P. after he was dead, and yet never blest God for the <hi>Good old cause</hi> being revived?</p>
+            <p n="21">XXI. Whether Canon <hi>Vpton</hi> having been <hi>created</hi> Bachelour, Master, and Canon, and being never made for a <hi>Scholar,</hi> need not to fear an <hi>annihilation?</hi>
+            </p>
+            <p n="22">XXII. Whether since Canon <hi>Vptons</hi> wise bargained with her hus<g ref="char:EOLhyphen"/>band that he preach but once a quarter it would not be worth the consideration of the Parliament, to order that he have no occasi<g ref="char:EOLhyphen"/>on to preach so often.</p>
+            <p n="23">XXIII. Whether the <hi>wives, children,</hi> and <hi>coach horses</hi> of the Ca<g ref="char:EOLhyphen"/>nons of Christ Church are not to be taken into their number for to make up any proportion betwixt 8000. <hi>l. per an.</hi> for eight useless and most of them too ignorant Canons, and 2000. <hi>l.</hi> for 100. Stu<g ref="char:EOLhyphen"/>dents, &amp;c?</p>
+            <p n="24">XXIV. Whether the Moral Philosophy Reader be not a <hi>fit tutor</hi> to Col. <hi>Phil. Jones</hi> his sons? and whether the Tutor to Col. <hi>Phil. Jones</hi>'s sons be fit to be Moral Philosophy Reader?</p>
+            <p n="25">XXV. Whether the Boy, Dr. <hi>Staughton</hi> of <hi>Exon</hi> Colledge did well to lie in his scarlet Gown that night he was made Doctor, since his Degree was a thing he ought not to have <hi>dream'd</hi> of?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
